@@ -37,6 +37,12 @@ body p{
     display: flex;
     margin: auto;
 }
+.ay_container img{
+    padding: 1%;
+    width: 48%;
+    text-align: left;
+}
+
 .ay_table{
     width: 100%;
     table-layout: fixed;
